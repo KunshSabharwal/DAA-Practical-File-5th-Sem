@@ -33,7 +33,7 @@ void bubbleSort(vector<int> &arr)
             break;
     }
 }
-
+// if-else to allow user to select what sorting algorithm to use
 int main()
 {
     int n;
