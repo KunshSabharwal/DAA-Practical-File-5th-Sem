@@ -4,4 +4,6 @@
 
 - Insertion Sort
 
-## Lab 2 -
+## Lab 2 - 11/8/25
+
+- Bubble and Selection Sort
