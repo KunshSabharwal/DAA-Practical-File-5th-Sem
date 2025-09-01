@@ -11,3 +11,7 @@
 ## Lab 3 - 18/08/25
 
 - Linear and Binary Search
+
+## Lab 4 - 1/09/25
+
+- Merge Sort and Quick Sort
