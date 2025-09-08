@@ -15,3 +15,7 @@
 ## Lab 4 - 1/09/25
 
 - Merge Sort and Quick Sort
+
+## Lab 5 - 8/09/25
+
+- Fractional Knapsack Problem
