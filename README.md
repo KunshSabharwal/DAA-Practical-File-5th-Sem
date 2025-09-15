@@ -19,3 +19,7 @@
 ## Lab 5 - 8/09/25
 
 - Fractional Knapsack Problem
+
+## Lab 6 - 15/09/25
+
+- Prims Algorithm
