@@ -23,3 +23,7 @@
 ## Lab 6 - 15/09/25
 
 - Prims Algorithm
+
+## Lab 7 - 22/09/25
+
+- Kruskal's Algorithm
