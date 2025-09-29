@@ -22,7 +22,7 @@
 
 ## Lab 6 - 15/09/25
 
-- Prims Algorithm
+- Prim's Algorithm
 
 ## Lab 7 - 22/09/25
 
