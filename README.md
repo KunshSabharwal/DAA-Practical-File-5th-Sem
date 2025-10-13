@@ -27,3 +27,7 @@
 ## Lab 7 - 22/09/25
 
 - Kruskal's Algorithm
+
+## Lab 8 - 13/10/25
+
+- Dijkstra's Algorithm
