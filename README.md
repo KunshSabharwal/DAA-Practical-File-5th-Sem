@@ -31,3 +31,7 @@
 ## Lab 8 - 13/10/25
 
 - Dijkstra's Algorithm
+
+## Lab 9 - 3/11/25
+
+- Floyd Warshall and N-Queens Problem

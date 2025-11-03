@@ -4,7 +4,7 @@
 #include <chrono>
 using namespace std;
 using namespace chrono;
-// added quick sort code with clock and rand functions
+
 void swapValues(int *array, int idx1, int idx2)
 {
     int temp = array[idx1];

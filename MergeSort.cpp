@@ -4,7 +4,7 @@
 #include <chrono>
 using namespace std;
 using namespace chrono;
-// added merge sort code with clock and rand functions
+
 void mergeSections(int *array, int left, int mid, int right)
 {
     int n1 = mid - left + 1;
